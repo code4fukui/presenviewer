@@ -1,6 +1,6 @@
 # presenviewer
  
-https://code4fukui.github.io/presenviewer/
+https://code4fukui.github.io/presenviewer/ # presen json (including param pages)
 
 ## サンプル
 
