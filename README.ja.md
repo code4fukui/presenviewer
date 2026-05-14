@@ -4,7 +4,7 @@
 
 ## ライブデモ
 
-[**https://code4fukui.github.io/presenviewer/**](https://code4fukui.github.io/presenviewer/)
+[**https://github.com/code4fukui/presenviewer](https://code4fukui.github.io/presenviewer/)
 
 このデモリンクはデフォルトのプレゼンテーションを読み込みます。独自のプレゼンテーションを表示するには、以下の使い方をご覧ください。
 

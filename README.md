@@ -6,7 +6,7 @@ A lightweight, browser-based presentation viewer that loads a presentation from 
 
 ## Live Demo
 
-[**https://code4fukui.github.io/presenviewer/**](https://code4fukui.github.io/presenviewer/)
+[**https://github.com/code4fukui/presenviewer](https://code4fukui.github.io/presenviewer/)
 
 The demo link loads a default presentation. To view your own, see the usage instructions below.
 
